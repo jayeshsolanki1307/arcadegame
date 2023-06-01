@@ -1,0 +1,589 @@
+@media screen and (max-width: 1366px){
+	.game-list-2 .heading-card{
+		width: 48% !important;
+	}
+
+	.game-head-list{
+		justify-content: space-between !important;
+	}
+}
+
+@media screen and (min-width: 1500px){
+	.grid-con{
+		grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+		grid-gap: 18px;
+	}
+	
+	.game-card.box-11 {
+	    height: 130px;
+	}
+
+	.game-card.box-22 {
+	    height: 278px;
+	}
+
+	.game-card.box-12 {
+	    height: 130px;
+	}
+
+	.heading-card img{
+		width: 115px !important;
+		height: 115px;
+	}
+
+	header{
+		padding: 40px 0 0 40px;
+		width: 174px;
+	}
+
+	.game-list{
+		padding: 40px;
+	}
+
+	.game-list.near-footer-game-list{
+		padding: 50px 40px 100px 40px;
+	}
+
+	.nav-icon-div .nav-icon i{
+	    height: 60px;
+	    width: 60px;
+	    font-size: 22px;
+	}
+
+	.nav-button button{
+		height: 60px;
+	}
+
+	.heading-card span{
+		font-size: 24px;
+	}
+
+	.heading-card img{
+		margin-right: 20px;
+	}
+
+	.game-list-2{
+		padding: 53px 40px 41px 40px;
+	}
+
+	.heading-img-box img{
+
+	}
+
+	.heading-img-box span{
+		font-size: 24px;
+	}
+
+	.heading-card{
+		height: 130px;
+	}
+
+	.game-list-2 .heading-card img {
+	    width: 115px !important;
+	    height: 115px !important;
+	}
+
+	.game-details{
+		padding: 32px 50px 70px 70px;
+	}
+
+	.game-details p{
+		font-size: 24px;
+		font-weight: lighter;
+		line-height: 32px;
+		margin-bottom: 40px;
+	}
+
+	.nav-bar .nav-links ul li{
+		padding: 0 25px;
+	}
+
+	.nav-bar a{
+		font-size: 20px !important;
+	}
+
+	.nav-bar button a{
+		padding: 15px 30px;
+	}
+
+	.nav-bar button a i{
+		margin-right: 10px;
+	}
+
+	.last-footer .left-button{
+		display: flex;
+	}
+
+	.nav-bar{
+		padding: 25px 20px;
+		margin-top: -50px;
+	}
+
+	.last-footer p{
+		font-size: 22px;
+	}
+
+	.game-page-title h1{
+		font-size: 34px;
+	}
+
+	.game-card.box-46{
+		height: 574px;
+	}
+
+	.member-data-section{
+		padding: 50px 70px;
+	}
+
+	.one-line-game-list .grid-con{
+		height: 130px;
+		overflow: hidden;
+	}
+
+	.member-data-section .single-member-box h3{
+		font-size: 34px;
+		margin-bottom: 16px;
+	}
+
+	.user-data .user-one-data label, .user-data .user-one-data input{
+		font-size: 26px;
+	}
+
+	.user-data .user-one-data{
+		padding: 20px 30px;
+	}
+
+	.member-buttons{
+		margin-top: 58px;
+	}
+
+	.member-buttons a{
+		font-size: 32px;
+	}
+
+	.near-footer-game-list{
+		padding-bottom: 130px;
+	}
+
+	.contact-section{
+		padding: 70px 140px 110px 140px;
+	}
+
+	.upgrade-section{
+		padding-bottom: 70px;
+	}
+
+	.contact-section .contact-form-div{
+		padding-bottom: 50px !important;
+	}
+
+	.contact-section .contact-form-div, .contact-detail{
+		padding: 30px 30px 20px;
+	}
+
+	.contact-section .contact-form-div h2{
+		font-size: 32px;
+		margin-bottom: 20px;
+	}
+
+	.form-input input, .form-input textarea{
+		padding: 18px 30px;
+		font-size: 23px;
+		border-radius: 26px;
+		margin-bottom: 30px;
+	}
+
+	.form-submit-btn.right{
+		margin-top: 10px;
+	}
+
+	.form-submit-btn button{
+	    font-size: 22px;
+	    padding: 15px 30px;
+	    border-radius: 30px;
+	}
+
+	.contact-detail{
+		margin-top: 50px;
+	}
+
+	.contact-detail h3{
+		font-size: 34px;
+	}
+
+	.contact-detail p{
+		font-size: 24px;
+		line-height: 32px;
+	}
+
+	.search-modal .modal-body{
+		padding-top: 60px;
+	}
+
+	.search-modal .filter-btn a{
+		font-size: 20px;
+		padding: 24px 26px;
+	}
+
+	.search-modal .modal-dialog{
+		max-width: 1500px;
+	}
+
+	.search-modal .modal-dialog .modal-header{
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+
+	.search-modal .search-input{
+		height: 80px;
+	}
+
+	.search-modal .search-input input{
+		font-size: 30px;
+	}
+
+	.search-modal .modal-body h4{
+		font-size: 30px;
+		margin-bottom: 20px;
+		margin-top: 40px;
+	}
+
+	.search-modal .single-modal-box{
+		height: 180px;
+		width: 180px;
+		margin-right: 20px;
+		margin-bottom: 20px;
+	}
+
+	.search-modal .modal-body{
+		height: 650px;
+		padding-bottom: 30px;
+	}
+
+	.search-modal .search-input i{
+		font-size: 25px;
+	}
+
+	.search-modal .modal-header .close{
+		font-size: 45px;
+	}
+
+	.sign-up-section h5{
+		font-size: 30px;
+		margin-bottom: 20px;
+	}
+
+	.sign-up-section ul{
+		margin-bottom: 40px;
+	}
+
+	.upgrade-section h2{
+		margin-bottom: 16px;
+	}
+
+	.upgrade-section h5{
+		font-size: 26px;
+		margin-bottom: 10px;
+	}
+
+	.upgrade-section p{
+		font-size: 26px;
+		margin-bottom: 50px;
+	}
+
+	.upgrade-section .contact-form-div{
+		padding-bottom: 95px;
+	}
+
+	.wpcf7-not-valid-tip{
+		bottom: -65px;
+		margin-left: 30px;
+	}
+
+	.contact-form .form-input .error{
+	  bottom: -5px;
+	  margin-left: 30px;
+	}
+
+	.game-detail-page{
+		padding-bottom: 18px;
+	}
+
+}
+
+@media screen and (max-width: 991px){
+	.nav-bar{
+		flex-direction: column;
+		margin-top: 0;
+	}
+
+	.nav-bar .left-button{
+		margin-top: 25px;
+	}
+
+	.nav-bar .nav-links{
+		margin-top: 30px;
+	}
+
+	.last-footer{
+		padding-top: 30px;
+	}
+
+	.nav-bar .nav-links ul{
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.nav-bar .nav-links ul li{
+		margin-bottom: 15px;
+		position: relative;
+	}
+
+	.nav-bar .nav-links ul li:after{
+	    content: " ";
+	    position: absolute;
+	    right: 0;
+	    top: 5px;
+	    height: 80%;
+	    width: 2px;
+	    background-color: #ffffff42;
+	}
+
+	.nav-bar .nav-links ul li:last-child:after{
+		display: none;
+	}
+
+	.member-data-section .single-member-box {
+	    width: 45%;
+	    margin-bottom: 20px;
+	}
+
+	.member-buttons a{
+		width: 45%;
+		margin-bottom: 14px;
+	}
+
+	.member-buttons{
+		margin-top: 10px;
+	}
+
+	.near-footer-game-list, .game-details{
+		padding-bottom: 1px !important;
+	}
+
+	.near-footer-game-list{
+		padding-top: 30px !important;
+	}
+
+	.error-404.not-found .page-content{
+		padding: 30px 15px 50px;
+	}
+}
+
+@media screen and (max-width: 767px){
+	.game-head-list{
+		flex-wrap: wrap;
+		justify-content: space-around;
+	}
+
+	.game-list-2 .featured-game-list .heading-img-box{
+		width: 48%;
+		margin-right: 0;
+	}
+
+	.game-list-2  .heading-card{
+		width: 48% !important;
+		margin-right: 0;
+	}
+
+	.other-page .grid-con .game-card:nth-child(2){
+		display: none;
+	}
+
+	.member-data-section .single-member-box {
+	    width: 100%;
+	}
+
+	.member-buttons a{
+		width: 100%;
+	}
+
+	.contact-section .contact-form-div .form-input.half-input{
+		width: 100%;
+	}
+
+	.form-submit-btn.right, .sign-up-section .form-submit-btn{
+		width: 100%;
+	}
+
+	.form-submit-btn button{
+		width: 100%;
+	}
+
+	.contact-section .contact-form-div, .contact-detail{
+		padding: 30px 15px 1px;
+	}
+
+	.contact-section .contact-form-div{
+		padding-bottom: 30px;
+	}
+
+	.sign-up-section .contact-form-div, .sign-up-section .contact-detail{
+		width: 100%;
+	}
+
+	.sign-up-section .contact-detail{
+		margin-top: 50px;
+	}
+
+	.box-46{
+	    grid-column-end: span 3;
+	    grid-row-end: span 2;
+	    min-height: 200px;
+	}
+
+	.game-card.box-46 {
+	    height: 240px;
+	}
+
+	.game-list-2 .heading-card{
+		width: 100% !important;
+	}
+
+	.member-data-section{
+		padding: 30px 23px;
+	}
+
+	.user-data .user-one-data, .member-buttons a{
+		margin-bottom: 10px;
+	}
+
+	.member-data-section{
+		padding: 30px 23px;
+	}
+
+	.back-home-btn a {
+	    padding: 16px 24px;
+	    font-size: 20px;
+	}
+}
+
+@media screen and (max-width: 734px){
+	.search-modal .filter-btn .filter-btn-link{
+		margin-bottom: 30px;
+	}
+
+	.search-modal .filter-btn .filter-btn-link{
+		margin-right: 6px;
+	}
+
+}
+
+@media screen and (max-width: 568px){
+	header{
+		padding: 23px 0 0 23px;
+		height: 140px;
+	}
+
+	.game-list{
+		padding: 23px 23px 20px 23px;
+	}
+
+	.game-list-2{
+		padding: 20px 23px 10px;
+	}
+
+	.nav-bar{
+		padding: 35px 10px 30px;
+	}
+
+	.contact-section .contact-form-div, .contact-detail{
+		background-color: transparent;
+		padding: 0;
+	}
+
+	.form-input input, .form-input textarea{
+		background-color: #3D2D7B;
+	}
+
+	.contact-section{
+		padding: 30px 23px 0px;
+	}
+
+	.contact-detail{
+		margin-top: 40px;
+	}
+
+	.game-details, .last-footer{
+		padding: 30px 23px;
+	}
+
+	.member-data-section .single-member-box{
+		margin-bottom: 30px;
+	}
+
+	.member-buttons a{
+		font-size: 26px;
+	}
+
+	.error-404.not-found .page-content img{
+		height: auto;
+		width: 100%;
+	}
+
+	.nav-bar .nav-links ul li a{
+		font-size: 14px;
+	}
+
+	.nav-bar .nav-links ul li{
+		margin-bottom: 5px;
+	}
+
+}
+
+@media screen and (max-width: 425px){
+	.game-list-2 .featured-game-list .heading-img-box{
+		width: 48%;
+	}
+
+	.search-modal .single-modal-box{
+		height: 75px;
+		width: 75px;
+	}
+
+	.heading-img-box{
+		padding: 10px;
+	}
+
+	.box-46{
+	    grid-column-end: span 2;
+	    grid-row-end: span 2;
+	    min-height: 200px;
+	}
+
+}
+
+@media screen and (max-width: 389px){
+	.other-page .game-card.box-12.game-page-title{
+		grid-column-end: span 1;
+	}
+
+	.heading-card span, .member-buttons a{
+		font-size: 20px;
+	}
+
+	.user-data .user-one-data label, .user-data .user-one-data label{
+		font-size: 16px;
+	}
+}
+
+
+
+
+
+
+@media screen and (max-width: 1873px) and (min-width: 1200px){
+	.member-buttons a{
+		font-size: 19px !important;
+	}
+}
